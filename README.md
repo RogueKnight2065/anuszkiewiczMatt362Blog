@@ -1,11 +1,11 @@
-## Welcome to GitHub Pages
+# Matt Anuszkiewicz CSCI 362 Blog
 
-You can use the [editor on GitHub](https://github.com/RogueKnight2065/anuszkiewiczMatt362Blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Matt Anuszkiewicz. I am a computer science student at the College of Charleston.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This blog is about my CSCI 362 Software Engineering course. 
 
-### Markdown
-
+## August 22nd, 2019
+### Home work 1
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
