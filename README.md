@@ -8,6 +8,7 @@ This blog is about my CSCI 362 Software Engineering course.
 ### HW1: Chapter 1
 
 1.3. What are four important attributes that all professional software should possess? Suggest four other attibutes that may sometimes be significant.
+    
     - Acceptability
     - Dependability and Security
     - Effciency
