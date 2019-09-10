@@ -11,7 +11,7 @@ This blog is about my CSCI 362 Software Engineering course.
 
 ### HW1: Chapter 1
 
-1.3. What are four important attributes that all professional software should possess? Suggest four other attributes that may sometimes be significant.
+**1.3.** What are four important attributes that all professional software should possess? Suggest four other attributes that may sometimes be significant.
     
     - Acceptability
     - Dependability and Security
@@ -23,11 +23,11 @@ This blog is about my CSCI 362 Software Engineering course.
     - Security and trust
     - Scale
     
-1.8. Discuss whether professional engineers should be licensed in the same way as doctors and lawyers.
+**1.8.** Discuss whether professional engineers should be licensed in the same way as doctors and lawyers.
 
     Professional engineers should be licensed because some if not all the technology they make could have the possibility of killing or effecting human society in some way.
 
-1.9. For each of the clauses in the ACM/IEEE Code of Ethics, propose an appropriate example that illustrates that clause. 
+**1.9.** For each of the clauses in the ACM/IEEE Code of Ethics, propose an appropriate example that illustrates that clause. 
     
     - Public: Shall act with public interest in mind.
     - Client and Employer: Shall act in a manner that holds the interests of the client, employer, and public.
@@ -39,7 +39,7 @@ This blog is about my CSCI 362 Software Engineering course.
     - Self: Shall participate in lifelong learning regarding the practice of the profession. 
     
 
-1.10. To help counter terrorism, many countries are planning or have developed computer systems that track large numbers of their citizens and their actions. Clearly, this has privacy implications. Discuss the ethics of working on the development of this type of system.
+**1.10.** To help counter terrorism, many countries are planning or have developed computer systems that track large numbers of their citizens and their actions. Clearly, this has privacy implications. Discuss the ethics of working on the development of this type of system.
 
    It is understandable that most countries would consider making computer systems to track and analyze citizens of their own country. The amount of intelligence needed to track down and eliminate the threat of terrorism is extremely large, cumbersome, and extremely complex. The issue is that most objectives of terrorism is to cause as much havac as possible and to strike fear in a specific group of people. The other issue is that terrorism is not a uniform casue, anyone could be a terrorist. However invading the privacy of everyone to see if they are a terrorist is extremely invasive and can cause worse consiquenses. Tracking movements is fine even if the data is streaming though military satilites like GPS but tracking habbits and puchuses without a warrent is illigel inside the U.S and we should hold other countries accountable. Now a day most people give the world their info so they are easy to track, but tracking everything they do without a warrent is unethical.  
 
@@ -48,3 +48,8 @@ This blog is about my CSCI 362 Software Engineering course.
 
 ## August 27th, 2019
 ### HW2: Responces
+
+
+### HW3: Chapter 10
+
+**10.6**
