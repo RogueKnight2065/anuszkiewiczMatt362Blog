@@ -52,4 +52,9 @@ This blog is about my CSCI 362 Software Engineering course.
 
 ### HW3: Chapter 10
 
-**10.6**
+**10.6.** Explain why it is reasonable to assume that the use of dependable processes will lead to the creation of dependable software?
+
+
+
+**10.10.** It been suggested that the need for regulation inhibits innovation and that regulators force the use of older methods of systems development that have been used on other systems. Disscudd weather or not you think this is true and the desirability of regulators imposing their views on what methods should be used.
+
