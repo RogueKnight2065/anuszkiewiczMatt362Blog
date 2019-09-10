@@ -20,7 +20,8 @@ This blog is about my CSCI 362 Software Engineering course.
     - Scale
     
 1.8. Discuss wheather professional engineers should be licensed in the same way as doctors and lawyers.
-    - Professional engineers should be licensed because some if not all the technology they make could have the possibility of killing or effecting human sociaty in some way.
+
+- Professional engineers should be licensed because some if not all the technology they make could have the possibility of killing or effecting human sociaty in some way.
 
 1.9. For each of the clauses in the ACM/IEEE Code of Ethics, propose an appropriate example that illustrates that clause. 
     
