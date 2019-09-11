@@ -63,3 +63,9 @@ This blog is about my CSCI 362 Software Engineering course.
    There is an old saying "If it ain't broke, don't fix it." This saying was taught to me by my father, he used to say it when we had to fix something or if something just flowed right. Sometimes it seems this saying is taking to literally. Polocy and reglation makers when it comes to technology and systems would take that saying to litterally. They not wanting people to change the way software is made or designined, not willing to think outside of the box. 
    One of the main problems of keeping regulations and using older methods is that those methods and systems might already be compromised in security for example a zero day. A zero day is an exploit found in software when it was originally made. 
    Regulation also stunts the growth of innivation. Not allowing designers to think outside of the box and outside of scope to complete a project that might yeild a better solution, will stunt the growth of innivation. 
+
+
+
+## August 29th, 2019
+### HW 4: Chapter 11 & 12
+
