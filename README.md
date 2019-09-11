@@ -54,7 +54,12 @@ This blog is about my CSCI 362 Software Engineering course.
 
 **10.6.** Explain why it is reasonable to assume that the use of dependable processes will lead to the creation of dependable software?
 
+   Dependencys are everywhere, where something relays on the something else to complete its job. It is ok to have software that is dependent on some aspect, like making a tool for a specific application. However the software should be able to operate on its own if need be.
+   If software is entirely dependent then when the software that is being relayed on crashes, not supported anymore, or updates the software that was made as a dependent would be useless. If the software is independent it will have more modularity and would be able to adapt to the changing software without engineer intervention.  
 
 
 **10.10.** It been suggested that the need for regulation inhibits innovation and that regulators force the use of older methods of systems development that have been used on other systems. Disscudd weather or not you think this is true and the desirability of regulators imposing their views on what methods should be used.
 
+   There is an old saying "If it ain't broke, don't fix it." This saying was taught to me by my father, he used to say it when we had to fix something or if something just flowed right. Sometimes it seems this saying is taking to literally. Polocy and reglation makers when it comes to technology and systems would take that saying to litterally. They not wanting people to change the way software is made or designined, not willing to think outside of the box. 
+   One of the main problems of keeping regulations and using older methods is that those methods and systems might already be compromised in security for example a zero day. A zero day is an exploit found in software when it was originally made. 
+   Regulation also stunts the growth of innivation. Not allowing designers to think outside of the box and outside of scope to complete a project that might yeild a better solution, will stunt the growth of innivation. 
