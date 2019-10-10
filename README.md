@@ -69,3 +69,10 @@ This blog is about my CSCI 362 Software Engineering course.
 ## August 29th, 2019
 ### HW 4: Chapter 11 & 12
 
+## October 10th, 2019 
+### HW17-B: Chapter 17
+
+**17.10** Your company wishes to move from using desktop application to accessing the same functionality remotely as services. Identify three risks that might arise and suggest how these risks may be reduced.
+    Remote access has its own security problems not to mention the latency and morale of the teams. Remoting in to a site runs the risk of someone or something tracking your traffic and possible could hijack your connection, or listen to all of the traffic back to the host computer. This is a massive risk to the security of the company, client, and the users of the products. This risk can be midagated by requiring a VPN on all computers that access the company, SSH remote servers with key autherization, and to have employees who are security conscious. 
+    When remote connecting to something there is always travel time from the client computer to host. Having this latency issue will cause possible errors or bug in the code that the company is working on. The only way this issue can be fixed or midigated is to have a robust network of servers to support the traffic coming through. 
+    While assosiates are at home it is possible that they could lose connection with the team they are working with. In return this might decrease productivity and might cause issues with the client. This can be fixed by having the employees come in for meetings every relaese. 
