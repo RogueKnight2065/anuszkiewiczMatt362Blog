@@ -76,3 +76,17 @@ This blog is about my CSCI 362 Software Engineering course.
     Remote access has its own security problems not to mention the latency and morale of the teams. Remoting in to a site runs the risk of someone or something tracking your traffic and possible could hijack your connection, or listen to all of the traffic back to the host computer. This is a massive risk to the security of the company, client, and the users of the products. This risk can be midagated by requiring a VPN on all computers that access the company, SSH remote servers with key autherization, and to have employees who are security conscious. 
     When remote connecting to something there is always travel time from the client computer to host. Having this latency issue will cause possible errors or bug in the code that the company is working on. The only way this issue can be fixed or midigated is to have a robust network of servers to support the traffic coming through. 
     While assosiates are at home it is possible that they could lose connection with the team they are working with. In return this might decrease productivity and might cause issues with the client. This can be fixed by having the employees come in for meetings every relaese. 
+
+
+## October 15th, 2019
+### HW18: Charpter 18
+
+**18.4** Define an interface specification for the Currency Converter and Check credit rating services shown in Figure 18.7.
+```
+{
+//Convert
+Input: Amount(double), recivedCurrency(string), exchangeToCurrency(string)
+Output: convertedAmount(double) 
+Exceptions: Invalid Currency, User misentry
+}
+```
