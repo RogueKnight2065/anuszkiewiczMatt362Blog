@@ -82,11 +82,31 @@ This blog is about my CSCI 362 Software Engineering course.
 ### HW18: Charpter 18
 
 **18.4** Define an interface specification for the Currency Converter and Check credit rating services shown in Figure 18.7.
+*Currency Converter*
 ```
 {
 //Convert
 Input: Amount(double), recivedCurrency(string), exchangeToCurrency(string)
 Output: convertedAmount(double) 
 Exceptions: Invalid Currency, User misentry
+
+//exchangeRate
+Input: recivedCurrency(string), exchangeToCurrency(string)
+Output: exchangeRate(double)
+Exceptions: Invalid Currency, User misentry
+}
+```
+*Check Credit Rating*
+```
+{
+//creditHistory
+Input: id(int), creditCompany(string)
+Output: report (string)
+Exceptions: Invalid Entry, Account does not exist, Invalid company, no history for ID. 
+
+//creditRating
+Input: id(int), creditCompany(string)
+Output: creditScore(int), analysis(string)
+Exceptions: Invalid Entry, Account does not exist, Invalid company
 }
 ```
