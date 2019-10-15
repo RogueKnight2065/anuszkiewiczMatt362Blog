@@ -69,6 +69,27 @@ This blog is about my CSCI 362 Software Engineering course.
 ## August 29th, 2019
 ### HW 4: Chapter 11 & 12
 
+## October 8th, 2019
+### HW17-A: Chapter 16
+**16.9** Design the interfaces of components that might be used in a system for an emergency control room. You should design interfaces for a call-logging components that record calls made, and a vehicle discovery component that, given a post code(zip code) and an incident type, finds the nearest suitable vehicle to be dispatched to the incident. 
+*Call logger*
+```
+{
+Input: callData, dispatcherData, callerData
+Output: callReport, sendDispatch, startCall, endCall, listAll
+Exceptions: Caller misusing 911 sevirces
+}
+```
+*Vehicle Discoverer*
+```
+{
+Input: postCode, incidentType, currentVehicleLocation
+Output: dispatchEmergencyVehicle
+Exceptions: denigned service
+}
+```
+The Vehicle Discoverer interface's inputs are made from the callReport from the call logger.
+
 ## October 10th, 2019 
 ### HW17-B: Chapter 17
 
