@@ -131,3 +131,10 @@ Output: creditScore(int), analysis(string)
 Exceptions: Invalid Entry, Account does not exist, Invalid company
 }
 ```
+
+
+## October 22nd, 2019
+### HW19: Chapter 19
+
+**19.3** Why is it impossible to infer the emergent properties of a complex system from the propties of the system components?
+    A system is not just a singular thing, they are normally a collection of subsystems that also has the emergent properties of the connected subsystems and the integration of the subsystems. For complex systems the complexities mostly appear in the critial relationships between the componets of the system. The emergent properties involve the system as a whole, it is not an isolated part of the system. The same properties of reliability, security, and preformance come from not just the individual componets or the system as a whole. They emerge from how the systems and its componets work together and how the complex relationship is managed. 
