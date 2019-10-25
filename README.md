@@ -139,3 +139,11 @@ Exceptions: Invalid Entry, Account does not exist, Invalid company
 **19.3** Why is it impossible to infer the emergent properties of a complex system from the properties of the system components?
    
    A system is not just a singular thing, they are normally a collection of subsystems that also has the emergent properties of the connected subsystems and the integration of the subsystems. For complex systems the complexities mostly appear in the critial relationships between the componets of the system. The emergent properties involve the system as a whole, it is not an isolated part of the system. The same properties of reliability, security, and preformance come from not just the individual componets or the system as a whole. They emerge from how the systems and its componets work together and how the complex relationship is managed. For these reasons is why it is impossible to infer that emergent properties of a complex system from its properties of the system componets. 
+
+
+## October 24th, 2019
+### HW20: Chapter 20
+
+**20.10** You work for a software company that has developed a system that provides information about consumers and that is used within a SoS by a number of other retail businesses. They pay you for the service used. Discuss the ethics of changing the system interfaces without notice to coerce userd into paying higher charges. Consider this question from the point of view of the company's employees, customers, and shareholders.
+
+    There is an ethical issue when it comes to raising the prices toward a customer. However this already occues in the work place. For example when the bank charges overdraft fees or anyother fees that are charged to the customer. This has an advatage on the company giving out the fees because the company can charge whatever they like. From the shareholders prespective charging more money to the customer for using their service is fine. They personally do not have to pay and it gains them more money. From the aspect of the employee it might feel scummy for the fact they are charging the customer more money, however it works in their benifit. 
