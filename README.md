@@ -158,6 +158,13 @@ Depending on the wilderness you are putting the sensors. However if there were m
 
 It is smart for the company to allocate funds for system testing only. The issue is if the allocated funds are to small to test the whole project. Another issue could be that there was so much money in the testing that the project is taking forever to come out. Also there could be the thought that if just the system is being test from the budget what about its componets and the security of the entire system. 
 
+## October 1st, 2019
+### HW15: Chapter 15
+
+**15.10** The reuse of software raises a number of copyright and intellectual property issues. If a customer pays a software contractor to develop a system, who has the right to reuse the developed code? Does the software contractor have the right to use that code as a basis for a generic component? What payment mechanisms might be used to reimburse providers of reusable components? Discuss these issues and other ethical issues associated with the reuse of software.
+
+I think it is a possible to use the developed code for a project. However their should be some crediation to the developer of the original software. There should be payment to the original developer or at least a certain percentage to the original developer. Also the customer should know that you are using some one else's code. Otherwise the company, you, or them could get sued.
+
 ## October 3rd, 2019
 ### HW16: Chapter 9
 
@@ -168,13 +175,6 @@ Fault repairs, envirormental adaptions, and fuctionality additions are the 3 dif
 **9.10** Do software engineers have a professional responsibility to develop code that can be easily maintained even if their employer does not explicitly request it?
 
 I would assume yes they do have a responseablity to the maintainablity to their code. However this seems to not be in practice from some of the code I have seen. Most of the documentation is not kept well or there is some weird fault that is hard coded into the system. Ethically I think that it should be their duty to make proper documentation and make their software easy to maintain. 
-
-## October 1st, 2019
-### HW15: Chapter 15
-
-**15.10** The reuse of software raises a number of copyright and intellectual property issues. If a customer pays a software contractor to develop a system, who has the right to reuse the developed code? Does the software contractor have the right to use that code as a basis for a generic component? What payment mechanisms might be used to reimburse providers of reusable components? Discuss these issues and other ethical issues associated with the reuse of software.
-
-I think it is a possible to use the developed code for a project. However their should be some crediation to the developer of the original software. There should be payment to the original developer or at least a certain percentage to the original developer. Also the customer should know that you are using some one else's code. Otherwise the company, you, or them could get sued.
 
 ## October 8th, 2019
 ### HW17-A: Chapter 16
